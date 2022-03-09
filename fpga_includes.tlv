@@ -239,7 +239,7 @@
          m4_ifelse_block(M4_BOARD, 6,['
          \viz_alpha
             initEach() {
-                  let fpga_img_url = "https://raw.githubusercontent.com/12562/Triple_port_RAM/d2679875b32808e0d73e16b2d7b21dd8a2a6ab14/de10-lite.jpg"
+                  let fpga_img_url = "https://raw.githubusercontent.com/12562/Triple_port_RAM/d2679875b32808e0d73e16b2d7b21dd8a2a6ab14/de10-lite.png"
                   let fpga_img = new fabric.Image.fromURL(
                         fpga_img_url,
                         function (img) {
@@ -250,12 +250,11 @@
                          originY: "center",
                          scaleX: 0.8,
                          scaleY: 0.8,
-                         angle: -2,
                         }
                      )
                 let seg = new fabric.Rect({
-                     top: 0,
-                     left: 0,
+                     top: 150,
+                     left: -250,
                      width: 218, 
                      height: 35, 
                      fill: "black",
