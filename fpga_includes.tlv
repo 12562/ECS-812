@@ -248,8 +248,8 @@
                         },
                         {originX: "center",
                          originY: "center",
-                         scaleX: 0.8,
-                         scaleY: 0.8,
+                         scaleX: 1,
+                         scaleY: 1,
                         }
                      )
                 let seg = new fabric.Rect({
