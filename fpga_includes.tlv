@@ -255,8 +255,8 @@
                 let seg = new fabric.Rect({
                      top: 150,
                      left: -250,
-                     width: 218, 
-                     height: 35, 
+                     width: 230, 
+                     height: 45, 
                      fill: "black",
                      opacity: 1
                   })
@@ -278,7 +278,7 @@
                         :
                         new fabric.Rect({
                            top: 76 + ((scopes.led.index == 5) ? 19 : (scopes.led.index == 4) ? 32 : (scopes.led.index == 3) ? 43 : (scopes.led.index == 2) ? 32 : (scopes.led.index == 1) ? 19 : (scopes.led.index == 0) ? 30 : 18),
-                           left: ((scopes.digit.index == 7) ? -114 : (scopes.digit.index == 6) ? -89 : (scopes.digit.index == 5) ? -64 : (scopes.digit.index == 4) ? -39 : (scopes.digit.index == 3) ? -4 : (scopes.digit.index == 2) ? 21 : (scopes.digit.index == 1) ? 46 : 71) + ((scopes.led.index == 5) ? 10 : (scopes.led.index == 4) ? 8 : (scopes.led.index == 3) ? -4 : (scopes.led.index == 2) ? -8 : (scopes.led.index == 1) ? -6 : (scopes.led.index == 0) ? -2 : -1),
+                           left: ((scopes.digit.index == 7) ? -238 : (scopes.digit.index == 6) ? -213 : (scopes.digit.index == 5) ? -188 : (scopes.digit.index == 4) ? -163 : (scopes.digit.index == 3) ? -138 : (scopes.digit.index == 2) ? -113 : (scopes.digit.index == 1) ? -88 : 71) + ((scopes.led.index == 5) ? 10 : (scopes.led.index == 4) ? 8 : (scopes.led.index == 3) ? -4 : (scopes.led.index == 2) ? -8 : (scopes.led.index == 1) ? -6 : (scopes.led.index == 0) ? -2 : -1),
                            width: ((this.getIndex() == 6) || (this.getIndex() == 3) || (this.getIndex() == 0)) ? 12 : 3,
                            height: ((this.getIndex() == 5) || (this.getIndex() == 4) || (this.getIndex() == 2) || (this.getIndex() == 1)) ? 11 : 3,
                            fill: "grey",
