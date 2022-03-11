@@ -253,10 +253,10 @@
                         }
                      )
                 let seg = new fabric.Rect({
-                     top: 140,
+                     top: 142,
                      left: -250,
                      width: 245, 
-                     height: 55, 
+                     height: 62, 
                      fill: "black",
                      opacity: 1
                   })
