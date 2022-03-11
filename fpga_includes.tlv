@@ -253,7 +253,7 @@
                         }
                      )
                 let seg = new fabric.Rect({
-                     top: 141,
+                     top: 140,
                      left: -250,
                      width: 245, 
                      height: 65, 
@@ -270,15 +270,15 @@
                      let sseg = (scopes.led.index == 7) ? new fabric.Circle({
                            top: 170,
                            //left: (scopes.digit.index == 3) ? -122 : (scopes.digit.index == 0) ? -212 : (scopes.digit.index == 1) ? -182 : -152 ,
-                           left : ((scopes.digit.index == 5) ? -220 : (scopes.digit.index == 4) ? -178 : (scopes.digit.index == 3) ? -133 : (scopes.digit.index == 2) ? -94 : (scopes.digit.index == 1) ? -52 : -10),
+                           left : ((scopes.digit.index == 5) ? -221 : (scopes.digit.index == 4) ? -180 : (scopes.digit.index == 3) ? -137 : (scopes.digit.index == 2) ? -98 : (scopes.digit.index == 1) ? -57 : -16),
                            radius: 2,
                            opacity: 1,
                            fill: "grey"
                         }) 
                         :
-                        new fabric.Rect({
+                        new fabric.Rect({70
                            top: 137 + ((scopes.led.index == 5) ? 19 : (scopes.led.index == 4) ? 32 : (scopes.led.index == 3) ? 43 : (scopes.led.index == 2) ? 32 : (scopes.led.index == 1) ? 19 : (scopes.led.index == 0) ? 30 : 18),
-                           left: ((scopes.digit.index == 5) ? -233 : (scopes.digit.index == 4) ? -191 : (scopes.digit.index == 3) ? -146 : (scopes.digit.index == 2) ? -107 : (scopes.digit.index == 1) ? -65 : -23) + ((scopes.led.index == 5) ? 10 : (scopes.led.index == 4) ? 8 : (scopes.led.index == 3) ? -4 : (scopes.led.index == 2) ? -8 : (scopes.led.index == 1) ? -6 : (scopes.led.index == 0) ? -2 : -1),
+                           left: ((scopes.digit.index == 5) ? -234 : (scopes.digit.index == 4) ? -193 : (scopes.digit.index == 3) ? -150 : (scopes.digit.index == 2) ? -111 : (scopes.digit.index == 1) ? -70 : -29) + ((scopes.led.index == 5) ? 10 : (scopes.led.index == 4) ? 8 : (scopes.led.index == 3) ? -4 : (scopes.led.index == 2) ? -8 : (scopes.led.index == 1) ? -6 : (scopes.led.index == 0) ? -2 : -1),
                            width: ((this.getIndex() == 3) || (this.getIndex() == 0)) ? 20 : 3,
                            height: ((this.getIndex() == 5) || (this.getIndex() == 4) || (this.getIndex() == 2) || (this.getIndex() == 1)) ? 19 : 3,
                            fill: "grey",
