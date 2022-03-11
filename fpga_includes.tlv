@@ -201,10 +201,10 @@
                         }
                      )
                 let seg = new fabric.Rect({
-                     top: 140,
-                     left: -250,
-                     width: 245, 
-                     height: 65, 
+                     top: 90,
+                     left: -126,
+                     width: 218, 
+                     height: 35, 
                      fill: "black",
                      opacity: 1
                   })
@@ -216,17 +216,17 @@
                \viz_alpha
                   initEach() {
                      let sseg = (scopes.led.index == 7) ? new fabric.Circle({
-                           top: 170,
+                           top: 119,
                            //left: (scopes.digit.index == 3) ? -122 : (scopes.digit.index == 0) ? -212 : (scopes.digit.index == 1) ? -182 : -152 ,
-                           left : ((scopes.digit.index == 5) ? -221 : (scopes.digit.index == 4) ? -180 : (scopes.digit.index == 3) ? -137 : (scopes.digit.index == 2) ? -98 : (scopes.digit.index == 1) ? -57 : -16),
+                           left : ((scopes.digit.index == 5) ? -104 : (scopes.digit.index == 4) ? -79 : (scopes.digit.index == 3) ? -54 : (scopes.digit.index == 2) ? -29 : (scopes.digit.index == 3) ? 6 : (scopes.digit.index == 2) ? 31 : (scopes.digit.index == 1) ? 56 : 81),
                            radius: 2,
                            opacity: 1,
                            fill: "grey"
                         }) 
                         :
                         new fabric.Rect({
-                           top: 137 + ((scopes.led.index == 5) ? 19 : (scopes.led.index == 4) ? 32 : (scopes.led.index == 3) ? 43 : (scopes.led.index == 2) ? 32 : (scopes.led.index == 1) ? 19 : (scopes.led.index == 0) ? 30 : 18),
-                           left: ((scopes.digit.index == 5) ? -234 : (scopes.digit.index == 4) ? -193 : (scopes.digit.index == 3) ? -150 : (scopes.digit.index == 2) ? -111 : (scopes.digit.index == 1) ? -70 : -29) + ((scopes.led.index == 5) ? 10 : (scopes.led.index == 4) ? 8 : (scopes.led.index == 3) ? -4 : (scopes.led.index == 2) ? -8 : (scopes.led.index == 1) ? -6 : (scopes.led.index == 0) ? -2 : -1),
+                           top: 76 + ((scopes.led.index == 5) ? 19 : (scopes.led.index == 4) ? 32 : (scopes.led.index == 3) ? 43 : (scopes.led.index == 2) ? 32 : (scopes.led.index == 1) ? 19 : (scopes.led.index == 0) ? 30 : 18),
+                           left: ((scopes.digit.index == 7) ? -114 : (scopes.digit.index == 6) ? -89 : (scopes.digit.index == 5) ? -64 : (scopes.digit.index == 4) ? -39 : (scopes.digit.index == 3) ? -4 : (scopes.digit.index == 2) ? 21 : (scopes.digit.index == 1) ? 46 : 71) + ((scopes.led.index == 5) ? 10 : (scopes.led.index == 4) ? 8 : (scopes.led.index == 3) ? -4 : (scopes.led.index == 2) ? -8 : (scopes.led.index == 1) ? -6 : (scopes.led.index == 0) ? -2 : -1),
                            width: ((this.getIndex() == 6) || (this.getIndex() == 3) || (this.getIndex() == 0)) ? 12 : 3,
                            height: ((this.getIndex() == 5) || (this.getIndex() == 4) || (this.getIndex() == 2) || (this.getIndex() == 1)) ? 11 : 3,
                            fill: "grey",
@@ -253,10 +253,10 @@
                         }
                      )
                 let seg = new fabric.Rect({
-                     top: 150,
+                     top: 140,
                      left: -250,
-                     width: 218, 
-                     height: 35, 
+                     width: 245, 
+                     height: 65, 
                      fill: "black",
                      opacity: 1
                   })
@@ -268,17 +268,17 @@
                \viz_alpha
                   initEach() {
                      let sseg = (scopes.led.index == 7) ? new fabric.Circle({
-                           top: 119,
+                           top: 170,
                            //left: (scopes.digit.index == 3) ? -122 : (scopes.digit.index == 0) ? -212 : (scopes.digit.index == 1) ? -182 : -152 ,
-                           left : ((scopes.digit.index == 7) ? -104 : (scopes.digit.index == 6) ? -79 : (scopes.digit.index == 5) ? -54 : (scopes.digit.index == 4) ? -29 : (scopes.digit.index == 3) ? 6 : (scopes.digit.index == 2) ? 31 : (scopes.digit.index == 1) ? 56 : 81),
+                           left : ((scopes.digit.index == 5) ? -221 : (scopes.digit.index == 4) ? -180 : (scopes.digit.index == 3) ? -137 : (scopes.digit.index == 2) ? -98 : (scopes.digit.index == 1) ? -57 : 16),
                            radius: 2,
                            opacity: 1,
                            fill: "grey"
                         }) 
                         :
                         new fabric.Rect({
-                           top: 76 + ((scopes.led.index == 5) ? 19 : (scopes.led.index == 4) ? 32 : (scopes.led.index == 3) ? 43 : (scopes.led.index == 2) ? 32 : (scopes.led.index == 1) ? 19 : (scopes.led.index == 0) ? 30 : 18),
-                           left: ((scopes.digit.index == 7) ? -114 : (scopes.digit.index == 6) ? -89 : (scopes.digit.index == 5) ? -64 : (scopes.digit.index == 4) ? -39 : (scopes.digit.index == 3) ? -4 : (scopes.digit.index == 2) ? 21 : (scopes.digit.index == 1) ? 46 : 71) + ((scopes.led.index == 5) ? 10 : (scopes.led.index == 4) ? 8 : (scopes.led.index == 3) ? -4 : (scopes.led.index == 2) ? -8 : (scopes.led.index == 1) ? -6 : (scopes.led.index == 0) ? -2 : -1),
+                           top: 137 + ((scopes.led.index == 5) ? 19 : (scopes.led.index == 4) ? 32 : (scopes.led.index == 3) ? 43 : (scopes.led.index == 2) ? 32 : (scopes.led.index == 1) ? 19 : (scopes.led.index == 0) ? 30 : 18),
+                           left: ((scopes.digit.index == 5) ? -234 : (scopes.digit.index == 4) ? -193 : (scopes.digit.index == 3) ? -150 : (scopes.digit.index == 2) ? -111 : (scopes.digit.index == 1) ? -70 : -29) + ((scopes.led.index == 5) ? 10 : (scopes.led.index == 4) ? 8 : (scopes.led.index == 3) ? -4 : (scopes.led.index == 2) ? -8 : (scopes.led.index == 1) ? -6 : (scopes.led.index == 0) ? -2 : -1),
                            width: ((this.getIndex() == 6) || (this.getIndex() == 3) || (this.getIndex() == 0)) ? 12 : 3,
                            height: ((this.getIndex() == 5) || (this.getIndex() == 4) || (this.getIndex() == 2) || (this.getIndex() == 1)) ? 11 : 3,
                            fill: "grey",
