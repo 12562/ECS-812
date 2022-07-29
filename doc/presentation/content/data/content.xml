@@ -1,0 +1,357 @@
+<zuiprezi><version>7</version><zui-table><settings>
+									<autoplay>
+										<delay>4000</delay>
+									</autoplay>
+								<bounds x="-123815.05739216285" y="-70719.34896784442" width="247630.11478432568" height="141438.69793568883"/><aspectratio>off</aspectratio><languages><language>en</language></languages><mode type="normal"/></settings><object id="19_13696309" type="button" x="-8.319588248659951e-12" y="-972.3600115662035" r="0" s="148.96836598948786" class="invisible"><type>invisible</type><size><w>1662.2838205176429</w><h>936.4062608228083</h></size><meta><parentTemplate>paper</parentTemplate><notModifiedByUser>from-template</notModifiedByUser></meta><layout><frametype value="OVERVIEW"/></layout></object><object id="4_13696309" type="button" x="85820.56499919765" y="-32584.00939928892" r="0" s="62.63400719480932" class="circle"><type>circle</type><size><w>1128.698486328125</w><h>1128.698486328125</h></size><meta><parentTemplate>paper</parentTemplate><notModifiedByUser>from-template</notModifiedByUser></meta><layout><frametype value="SECTION"/></layout></object><object id="5_13696309" type="button" x="-56578.00873131611" y="14577.580489763679" r="0" s="29.910347572639203" class="circle"><type>circle</type><size><w>800</w><h>800.1868285847735</h></size><meta><parentTemplate>paper</parentTemplate><notModifiedByUser>from-template</notModifiedByUser></meta><layout><frametype value="SECTION"/></layout></object><object id="6_13696309" type="button" x="-19522.674146028232" y="23356.39666769187" r="0" s="32.55712977773689" class="circle"><type>circle</type><size><w>800</w><h>800.1650165016501</h></size><meta><parentTemplate>paper</parentTemplate><notModifiedByUser>from-template</notModifiedByUser></meta><layout><frametype value="SECTION"/></layout></object><object id="7_13696309" type="button" x="4554.401347488443" y="-5655.73156673196" r="0" s="35.88805724674627" class="circle"><type>circle</type><size><w>800</w><h>800</h></size><meta><parentTemplate>paper</parentTemplate><notModifiedByUser>from-template</notModifiedByUser></meta><layout><frametype value="SECTION"/></layout></object><object id="5_24309637" type="image" x="-66604.31291223859" y="34538.566875876946" r="-11.647433328814149" s="16.39361947807654"><source w="1439" h="639">963221869<url>963221869.png</url></source><resource><id>963221869</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/3/1/8/21d1ec5de0bc7d003ca87d2dc3baf88fee83a.png</url></resource><sourceUrl>941075757%20(1).png</sourceUrl><meta><parentTemplate>paper</parentTemplate><notModifiedByUser>from-template</notModifiedByUser></meta></object><object id="12_13696309" type="text" x="87776.65864176855" y="-25468.079504499765" r="0" s="179.2870172855758" class="body"><height>130.734375</height><width>390.9237784827681</width><p listType="bullet" indent="1"><text><![CDATA[What are multi-port RAM's]]></text></p><p listType="bullet" indent="1"><text><![CDATA[Why are multiple ports required?]]></text></p><p listType="bullet" indent="1"><text><![CDATA[]]></text></p><layout><layout-element role="body"/></layout></object><object id="16_13696309" type="textwithplaceholder" x="-19599.66584401529" y="20205.466342235566" r="0" s="33.13084744699775" class="body"><placeholder text="Click to add text" x="-195.45" y="-16.3" align="left" width="390.9237784827681"/><layout><layout-element role="body"/></layout></object><object id="17_13696309" type="textwithplaceholder" x="4553.788450557818" y="-13557.147245723432" r="0" s="63.29426615009997" class="strong"><placeholder text="Click to add text" x="-140.7" y="-23.25" align="center" width="281.45875807462244"/><layout><layout-element role="title"/></layout></object><object id="18_13696309" type="textwithplaceholder" x="4469.532611093428" y="-9128.316540578422" r="0" s="36.52047210329124" class="body"><placeholder text="Click to add text" x="-195.45" y="-16.3" align="left" width="390.9237784827681"/><layout><layout-element role="body"/></layout></object><object id="1_13696309" type="text" x="29928.46664318242" y="70042.57699375009" r="0" s="41.41355930874718" class="body"><height>32.68359375</height><width>-263.8125</width><p><text color="12960707"><![CDATA[Image by Tom Mooring]]></text></p><meta><parentTemplate>paper</parentTemplate><notModifiedByUser>from-template</notModifiedByUser></meta></object><object id="15_13696309" type="textwithplaceholder" x="-19522.275413979885" y="16249.494385871654" r="0" s="57.41964863317458" class="strong"><placeholder text="Click to add text" x="-128.45" y="-23.25" align="center" width="256.9102995036605"/><layout><layout-element role="title"/></layout></object><object id="2_13696309" type="text" x="-66317.66229790778" y="-26631.85964000518" r="0" s="225.36958384796515" class="head"><height>28.8</height><width>452.19417954299666</width><p><text><![CDATA[Triple Port RAM]]></text></p></object><object id="33_30863873" type="button" x="-24289.560379278108" y="28912.675323607735" r="0" s="9.97676948424332" class="circle"><type>circle</type><size><w>800</w><h>800</h></size><meta><parentTemplate>paper</parentTemplate><notModifiedByUser>from-template</notModifiedByUser></meta><layout><layout-element role="child" parent-id="6_13696309"/></layout></object><object id="34_30863873" type="textwithplaceholder" x="-24221.609779977975" y="27108.498811818634" r="-1.8033849735153176e-16" s="21.994514035415776" class="strong"><placeholder text="Click to add text" x="-131.65" y="-23.25" align="center" width="263.3017658316421"/><layout><layout-element role="title" parent-id="33_30863873"/></layout></object><object id="35_30863873" type="textwithplaceholder" x="-24319.05193874072" y="28623.828194515092" r="-2.344108425582542e-16" s="12.690723585466198" class="body"><placeholder text="Click to add text" x="-195.45" y="-16.3" align="left" width="390.9237784827681"/><meta><notModifiedByUser>from-frame-layout-switcher</notModifiedByUser></meta><layout><layout-element role="body" parent-id="33_30863873"/></layout></object><object id="37_30863873" type="button" x="-15727.149003833209" y="29903.138853439657" r="0" s="9.97676948424332" class="circle"><type>circle</type><size><w>800</w><h>800</h></size><meta><parentTemplate>paper</parentTemplate><notModifiedByUser>from-template</notModifiedByUser></meta><layout><layout-element role="child" parent-id="6_13696309"/></layout></object><object id="38_30863873" type="textwithplaceholder" x="-15728.234043719165" y="28098.962341650542" r="0" s="21.994514035415776" class="strong"><placeholder text="Click to add text" x="-135.65" y="-23.25" align="center" width="271.35801389066995"/><layout><layout-element role="title" parent-id="37_30863873"/></layout></object><object id="39_30863873" type="textwithplaceholder" x="-15756.640563295825" y="29614.29172434701" r="0" s="12.690723585466197" class="body"><placeholder text="Click to add text" x="-195.45" y="-16.3" align="left" width="390.9237784827681"/><meta><notModifiedByUser>from-frame-layout-switcher</notModifiedByUser></meta><layout><layout-element role="body" parent-id="37_30863873"/></layout></object><object id="4_24309637" type="image" x="3806.4987787896716" y="16269.594198342898" r="-31.28263656968044" s="16.577946893149782"><source w="1423" h="608">963221871<url>963221871.png</url></source><resource><id>963221871</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/8/c/f/4f233f96ce48d1d2fe2c39b334fa19ed6444e.png</url></resource><sourceUrl>954939013%20(1)%20(1).png</sourceUrl><meta><parentTemplate>paper</parentTemplate><notModifiedByUser>from-template</notModifiedByUser></meta></object><object id="3_24309637" type="image" x="-37493.08765416294" y="6353.085504010544" r="-143.67295764271626" s="16.416435928289594"><source w="1437" h="631">963221867<url>963221867.png</url></source><resource><id>963221867</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/6/d/2/f952e82b9f021ee3c0772b4c9d1cf4e4517c0.png</url></resource><sourceUrl>954937895%20(1).png</sourceUrl><meta><parentTemplate>paper</parentTemplate><notModifiedByUser>from-template</notModifiedByUser></meta></object><object id="13_13696309" type="text" x="-56576.74841075276" y="7404.661468495748" r="0" s="38.04677997111936" class="strong"><height>93.1875</height><width>601.0161035720159</width><p align="center"><text><![CDATA[Why are multiple ports ]]></text></p><p align="center"><text><![CDATA[required?]]></text></p><layout><layout-element role="title"/></layout></object><object id="2" type="text" x="91575.93450343126" y="-50452.969334241716" r="0" s="297.3581131270829" class="strong"><height>46.59375</height><width>175.4831512051577</width><p><text><![CDATA[Objectives]]></text></p></object><object id="3" type="button" x="-94359.25896458892" y="37671.8694761315" r="0" s="28.451001697940825" class="circle"><type>circle</type><size><w>1241.0246540170324</w><h>1241.0246540170324</h></size></object><object id="4" type="text" x="-91129.53157601343" y="29699.719696176784" r="0" s="58.37975366398005" class="strong"><height>46.59375</height><width>488.238126683771</width><p><text><![CDATA[What are Multi-port RAM's?]]></text></p></object><object id="7" type="shape" x="-98188.85137845781" y="38657.0535048389" r="0" s="15.671149148808134" class="poly1"><geom type="poly"><p x="-181.4999691968996" y="-262.1556165870403"/><p x="181.4999691968996" y="-262.1556165870403"/><p x="181.4999691968996" y="262.1556165870403"/><p x="-181.4999691968996" y="262.1556165870403"/><t>0</t><r>0</r></geom></object><object id="8" type="shape" x="-85856.21342578092" y="38371.88069058679" r="0" s="11.737233142763385" class="poly1"><geom type="poly"><p x="-174.80901789125878" y="-259.3734308118151"/><p x="174.80901789125878" y="-259.3734308118151"/><p x="174.80901789125878" y="259.3734308118151"/><p x="-174.80901789125878" y="259.3734308118151"/><t>0</t><r>0</r></geom></object><object id="18" type="shape" x="-103561.39742915942" y="38657.28219193933" r="0" s="11.975229671502088" class="poly3"><geom type="poly"><p x="-125.76675415039064" y="-339.9273425024476"/><p x="125.76675415039064" y="-339.9273425024476"/><p x="125.76675415039064" y="339.9273425024476"/><p x="-125.76675415039064" y="339.9273425024476"/><t>0</t><r>0</r></geom><meta><parentObjlib>rect1</parentObjlib></meta></object><object id="9" type="shape" x="-103363.63133951792" y="36907.77760398106" r="6.679164831073385e-15" s="26.1356686220291" class="line3"><geom type="arrow"><sp>-104.9297763447668 0</sp><ep>104.9297763447668 0</ep><t>10</t></geom></object><object id="10" type="text" x="-98703.58172606015" y="38578.46819588876" r="0" s="64.44915660798848" class="body"><height>98.05078125</height><width>-87.38671875</width><p><text><![CDATA[   Single]]></text></p><p><text><![CDATA[    Port]]></text></p><p><text><![CDATA[    RAM]]></text></p></object><object id="11" type="text" x="-85921.61793650754" y="38315.16628967698" r="0" s="43.8615730007363" class="body"><height>98.05078125</height><width>96.83046875</width><p><text><![CDATA[   Triple]]></text></p><p><text><![CDATA[    Port]]></text></p><p><text><![CDATA[    RAM]]></text></p></object><object id="12" type="shape" x="-103319.66217846068" y="38299.38021999449" r="7.156248033292914e-15" s="26.1356686220291" class="line3"><geom type="arrow"><sp>-103.24743327204564 0</sp><ep>103.24743327204564 0</ep><t>10</t></geom></object><object id="13" type="shape" x="-104910.49839572415" y="40440.96772835127" r="-4.9967455018503393e-14" s="26.1356686220291" class="line3"><geom type="arrow"><sp>88.34170646548046 0</sp><ep>-88.34170646548046 0</ep><t>10</t></geom></object><object id="14" type="shape" x="-102374.49800769091" y="40440.86489689057" r="0" s="26.1356686220291" class="line3"><geom type="arrow"><sp>-65.10273690683795 0</sp><ep>65.10273690683795 0</ep><t>10</t></geom></object><object id="15" type="text" x="-107881.0680694226" y="36714.58527367813" r="0" s="32.95384898627822" class="body"><height>32.68359375</height><width>-91.078125</width><p><text color="16711680"><![CDATA[Address]]></text></p></object><object id="16" type="text" x="-107881.0680694226" y="38220.0324558928" r="0" s="29.958044532980196" class="body"><height>32.68359375</height><width>-83.56640625</width><p><text color="16711680"><![CDATA[Control]]></text></p></object><object id="17" type="text" x="-108336.60042649388" y="40361.40766092098" r="0" s="29.958044532980196" class="body"><height>32.68359375</height><width>-53.109375</width><p><text color="16711680"><![CDATA[Data]]></text></p></object><object id="20" type="text" x="-103970.76072139658" y="38592.262785475" r="0" s="32.95384898627822" class="body"><height>196.1015625</height><width>-85.46484375</width><p><text><![CDATA[      S  ]]></text></p><p><text><![CDATA[      i    P]]></text></p><p><text><![CDATA[     n    o]]></text></p><p><text><![CDATA[     g    r]]></text></p><p><text><![CDATA[     l     t]]></text></p><p><text><![CDATA[     e]]></text></p></object><object id="24" type="shape" x="-90068.8585030369" y="38501.08890233693" r="0" s="9.181891052500417" class="poly3"><geom type="poly"><p x="-102.5" y="-325.109920762295"/><p x="102.5" y="-325.109920762295"/><p x="102.5" y="325.109920762295"/><p x="-102.5" y="325.109920762295"/><t>0</t><r>0</r></geom><meta><parentObjlib>rect1</parentObjlib></meta></object><object id="25" type="button" x="-93249.92510701642" y="45962.06435710987" r="0" s="7.3956377093452526" class="circle"><type>circle</type><size><w>800</w><h>800</h></size></object><object id="26" type="shape" x="-86060.41712812049" y="43155.73409684002" r="-90.09210903908918" s="9.181891052500417" class="poly3"><geom type="poly"><p x="-78.24558113879368" y="-318.8677364339546"/><p x="78.24558113879368" y="-318.8677364339546"/><p x="78.24558113879368" y="318.8677364339546"/><p x="-78.24558113879368" y="318.8677364339546"/><t>0</t><r>0</r></geom><meta><parentObjlib>rect1</parentObjlib></meta></object><object id="28" type="shape" x="-81592.79981222664" y="38372.10937768722" r="0" s="9.181891052500417" class="poly3"><geom type="poly"><p x="-102.5" y="-325.109920762295"/><p x="102.5" y="-325.109920762295"/><p x="102.5" y="325.109920762295"/><p x="-102.5" y="325.109920762295"/><t>0</t><r>0</r></geom><meta><parentObjlib>rect1</parentObjlib></meta></object><object id="29" type="text" x="-90552.76040757378" y="38614.06032995566" r="0" s="36.58993607084075" class="body"><height>228.78515625</height><width>50.510504193831906</width><p><text><![CDATA[]]></text></p><p><text><![CDATA[     I]]></text></p><p><text><![CDATA[     P]]></text></p><p><text><![CDATA[     o]]></text></p><p><text><![CDATA[     r]]></text></p><p><text><![CDATA[     t]]></text></p><p><text><![CDATA[     ]]></text></p></object><object id="30" type="text" x="-82671.05949081425" y="38258.45188876717" r="0" s="36.58993607084075" class="body"><height>163.41796875</height><width>63.36567743059516</width><p align="right"><text><![CDATA[ II]]></text></p><p align="right"><text><![CDATA[P]]></text></p><p align="right"><text><![CDATA[o]]></text></p><p align="right"><text><![CDATA[r]]></text></p><p align="right"><text><![CDATA[t]]></text></p></object><object id="31" type="text" x="-86065.69080978648" y="42811.15468438154" r="-1.2424041724466849e-17" s="36.589936070840785" class="body"><height>32.68359375</height><width>-103.18359375</width><p><text><![CDATA[III     Port]]></text></p></object><object id="32" type="shape" x="-89796.32883675085" y="36583.85332144939" r="-3.9456223904542284e-14" s="26.1356686220291" class="line3"><geom type="arrow"><sp>-77.55973526240528 0</sp><ep>77.55973526240528 0</ep><t>10</t></geom></object><object id="0_131897503" type="shape" x="-89993.65818803155" y="38372.139387646996" r="-2.560346518578132e-14" s="26.135668622029097" class="line3"><geom type="arrow"><sp>-79.76367860677537 0</sp><ep>79.76367860677539 0</ep><t>10</t></geom></object><object id="1_131897503" type="shape" x="-89457.42062970973" y="40498.18459135009" r="2.8051901296773296e-14" s="26.135668622029097" class="line3"><geom type="arrow"><sp>-58.12621773455412 0</sp><ep>58.12621773455412 0</ep><t>10</t></geom></object><object id="2_131897503" type="shape" x="-91124.00062490713" y="40468.58983135538" r="1.2914272423874518" s="26.135668622029105" class="line3"><geom type="arrow"><sp>46.89349345010351 0</sp><ep>-46.893493450103506 0</ep><t>10</t></geom></object><object id="3_131897503" type="shape" x="-81921.18469842589" y="36727.619788418895" r="-2.611641064707907e-14" s="26.135668622029108" class="line3"><geom type="arrow"><sp>79.59147216362508 0</sp><ep>-79.59147216362507 0</ep><t>10</t></geom></object><object id="4_131897503" type="shape" x="-81921.18469842589" y="38354.17084490247" r="-5.5338535717913166e-14" s="26.135668622029108" class="line3"><geom type="arrow"><sp>79.59147216362527 0</sp><ep>-79.59147216362527 0</ep><t>10</t></geom></object><object id="5_131897503" type="shape" x="-82497.0621380779" y="40396.47504999095" r="-1.2904944833060617e-13" s="26.135668622029108" class="line3"><geom type="arrow"><sp>59.65751817034376 0</sp><ep>-59.65751817034376 0</ep><t>10</t></geom></object><object id="6_131897503" type="shape" x="-81044.47812527705" y="40395.57987918942" r="-9.569990859522335e-14" s="26.13566862202911" class="line3"><geom type="arrow"><sp>-55.51225286110846 0</sp><ep>55.51225286110846 0</ep><t>10</t></geom></object><object id="7_131897503" type="shape" x="-87460.5678130171" y="43177.58478003138" r="90.00000000000001" s="26.1356686220291" class="line3"><geom type="arrow"><sp>-76.55443077030706 0</sp><ep>76.55443077030708 0</ep><t>10</t></geom></object><object id="16_131897503" type="text" x="-93249.27851900611" y="36683.56185489269" r="0" s="36.24923388490604" class="body"><height>32.68359375</height><width>-54.10546875</width><p><text color="16711680"><![CDATA[  LA1]]></text></p></object><object id="17_131897503" type="text" x="-93013.89098253871" y="38313.33679287343" r="0" s="36.24923388490604" class="body"><height>32.68359375</height><width>-41.2265625</width><p><text color="16711680"><![CDATA[LC1]]></text></p></object><object id="18_131897503" type="text" x="-79631.1218646287" y="36678.68139890863" r="0" s="36.58993607084075" class="body"><height>32.68359375</height><width>57.385937263159306</width><p align="right"><text color="16711680"><![CDATA[RA]]></text></p></object><object id="19_131897503" type="text" x="-81542.39529716423" y="38346.35971632011" r="0" s="36.58993607084075" class="body"><height>32.68359375</height><width>176.34375</width><p align="right"><text color="16711680"><![CDATA[RC]]></text></p></object><object id="20_131897503" type="text" x="-79271.16836853181" y="40334.702073686945" r="0" s="32.95384898627822" class="body"><height>32.68359375</height><width>40</width><p align="right"><text color="16711680"><![CDATA[D2]]></text></p></object><object id="21_131897503" type="text" x="-93014.11966963914" y="40299.25557311832" r="0" s="36.58993607084075" class="body"><height>32.68359375</height><width>-43.81640625</width><p><text color="16711680"><![CDATA[LD1]]></text></p></object><object id="22_131897503" type="shape" x="-86061.0408135203" y="43155.78722505157" r="90.00000000000001" s="26.1356686220291" class="line3"><geom type="arrow"><sp>-76.55443077030706 0</sp><ep>76.55443077030708 0</ep><t>10</t></geom></object><object id="23_131897503" type="shape" x="-84595.86051537804" y="43155.98541892465" r="90.00000000000001" s="26.1356686220291" class="line3"><geom type="arrow"><sp>-76.55443077030706 0</sp><ep>76.55443077030708 0</ep><t>10</t></geom></object><object id="24_131897503" type="text" x="-87509.53989301248" y="45677.953023325455" r="0" s="30.239616587471698" class="body"><height>32.68359375</height><width>-29.0625</width><p><text color="16711680"><![CDATA[A3]]></text></p></object><object id="25_131897503" type="text" x="-86060.8581410606" y="45677.495649124576" r="0" s="30.23961658747171" class="body"><height>32.68359375</height><width>-28.88671875</width><p><text color="16711680"><![CDATA[C3]]></text></p></object><object id="26_131897503" type="text" x="-84646.95950808849" y="45677.72433622502" r="0" s="30.23961658747171" class="body"><height>32.68359375</height><width>-31.2421875</width><p><text color="16711680"><![CDATA[D3]]></text></p></object><object id="27_131897503" type="shape" x="-84593.39418133127" y="42157.516074460356" r="90.00000000000031" s="26.1356686220291" class="line3"><geom type="arrow"><sp>38.27721508841305 0</sp><ep>-38.27721508841304 0</ep><t>10</t></geom></object><object id="28_131897503" type="text" x="-93146.03737509076" y="44320.21597608764" r="0" s="11.051886375071003" class="strong"><height>46.59375</height><width>-161.9765625</width><p><text><![CDATA[Differences]]></text></p></object><object id="29_131897503" type="text" x="-93235.62427289151" y="45587.53011497459" r="0" s="6.109116878397857" class="body"><height>294.15234375</height><width>694.0277377251545</width><p listType="bullet" indent="1"><text><![CDATA[A standard RAM consists of a single port which consists of the address bus, conrol logic and data bus.]]></text></p><p><text><![CDATA[       ]]></text></p><p indent="1"><text><![CDATA[    Address bus : Used to uniquely identify a memory word ]]></text></p><p><text><![CDATA[         Control Logic : Decides whether data is to be read from                        ]]></text></p><p><text><![CDATA[                                    the memory word selected or  to be                 ]]></text></p><p><text><![CDATA[                                    written there.  ]]></text></p><p><text><![CDATA[]]></text></p><p indent="2"><text><![CDATA[]]></text></p></object><object id="30_131897503" type="text" x="-93237.20429093578" y="47160.18186643431" r="0" s="6.238501736644124" class="body"><height>294.15234375</height><width>680.7</width><p listType="bullet" indent="1"><text><![CDATA[As name suggests, multi-port RAM's are those having more than one of these ports. Again each port will have an address bus, data bus and control bus. ]]></text></p><p indent="2"><text><![CDATA[ Each of  these port has the capability to address any  in  the memory array and write data in or read data  out. Some of these devices are available in asynchronous (all timing controlled by the CPU) or synchronous (timing provided by a master clock) formats.]]></text></p></object><object id="49" type="image" x="-49637.186565704746" y="12331.272833242141" r="-158.68531393058691" s="2.180271922239246"><source w="1437" h="631">963221867<url>963221867.png</url></source><resource><id>963221867</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/6/d/2/f952e82b9f021ee3c0772b4c9d1cf4e4517c0.png</url></resource><sourceUrl>954937895%20(1).png</sourceUrl><meta><parentTemplate>paper</parentTemplate><notModifiedByUser>from-template</notModifiedByUser></meta></object><object id="50" type="image" x="-53971.31912253488" y="12797.21831877061" r="36.046014987934164" s="2.180271922239246"><source w="1437" h="631">963221867<url>963221867.png</url></source><resource><id>963221867</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/6/d/2/f952e82b9f021ee3c0772b4c9d1cf4e4517c0.png</url></resource><sourceUrl>954937895%20(1).png</sourceUrl><meta><parentTemplate>paper</parentTemplate><notModifiedByUser>from-template</notModifiedByUser></meta></object><object id="31_131897503" type="text" x="-56873.15904385727" y="11243.71689141931" r="0" s="25.9864626535888" class="body"><height>65.3671875</height><width>732.7608779075973</width><p listType="bullet" indent="1"><text><![CDATA[Accessing system memory by devices other than a processor like the i/o devices is always required.]]></text></p></object><object id="1" type="button" x="-51952.57182750125" y="13000.807111997015" r="0" s="2.6470144820515853" class="circle"><type>circle</type><size><w>800</w><h>800</h></size></object><object id="32_131897503" type="text" x="-51953.32384439071" y="12557.11714721803" r="0" s="1.8886044529972215" class="body"><height>32.68359375</height><width>865.2107178353939</width><p listType="bullet" indent="1"><text><![CDATA[An example of this is running an application stored in a hard disk drive]]></text></p></object><object id="33_131897503" type="text" x="-51992.19638777018" y="12704.28236358798" r="0" s="1.8886044529972215" class="body"><height>65.3671875</height><width>824.0102074622799</width><p listType="bullet" indent="1"><text><![CDATA[For CPU to run such an application, this program must be loaded into system memory from the hard drive.]]></text></p></object><object id="0" type="text" x="-51935.254002318594" y="13005.222583980672" r="0" s="1.8886044529972215" class="body"><height>228.78515625</height><width>884.3041291810318</width><p listType="bullet" indent="1"><text><![CDATA[Earlier, this was done using the DMA(Direct memory access) process. A DMA Controller would be connected to the system’s memory bus along with the CPU and the hard disk controller. When data needed to be transferred to or from the hard drive the DMA controller would tell the CPU to hold and tell the hard disk controller to execute the data transfer. Once the transfer was complete the DMA controller would inhibit the hard disk controller and remove the hold from the CPU.]]></text></p></object><object id="5" type="shape" x="-52324.96241272041" y="13369.298319360476" r="0" s="0.5601086373082926" class="poly3"><geom type="poly"><p x="-181.4999691968996" y="-133.99997329900538"/><p x="181.4999691968996" y="-133.99997329900538"/><p x="181.4999691968996" y="133.99997329900538"/><p x="-181.4999691968996" y="133.99997329900538"/><t>0</t><r>0</r></geom><meta><parentObjlib>rect1</parentObjlib></meta></object><object id="6" type="shape" x="-51594.86125303295" y="13369.35566315247" r="0" s="0.5733177326343749" class="poly3"><geom type="poly"><p x="-181.4999691968996" y="-133.99997329900538"/><p x="181.4999691968996" y="-133.99997329900538"/><p x="181.4999691968996" y="133.99997329900538"/><p x="-181.4999691968996" y="133.99997329900538"/><t>0</t><r>0</r></geom><meta><parentObjlib>rect1</parentObjlib></meta></object><object id="19" type="shape" x="-52324.96241272041" y="13754.64860157063" r="0" s="0.5689347535060086" class="poly3"><geom type="poly"><p x="-181.4999691968996" y="-133.99997329900538"/><p x="181.4999691968996" y="-133.99997329900538"/><p x="181.4999691968996" y="133.99997329900538"/><p x="-181.4999691968996" y="133.99997329900538"/><t>0</t><r>0</r></geom><meta><parentObjlib>rect1</parentObjlib></meta></object><object id="21" type="shape" x="-51594.86125303295" y="13754.591257778635" r="0" s="0.5347137583541997" class="poly3"><geom type="poly"><p x="-181.4999691968996" y="-133.99997329900538"/><p x="181.4999691968996" y="-133.99997329900538"/><p x="181.4999691968996" y="133.99997329900538"/><p x="-181.4999691968996" y="133.99997329900538"/><t>0</t><r>0</r></geom><meta><parentObjlib>rect1</parentObjlib></meta></object><object id="27" type="shape" x="-51976.88341279069" y="13565.08009718859" r="-180" s="4.5875033596447015" class="line3"><geom type="arrow"><sp>-144.07871641616651 0</sp><ep>144.07871641616651 0</ep><t>10</t></geom></object><object id="33" type="shape" x="-51848.13676216809" y="13558.475489153825" r="179.99999999999994" s="4.587503359644704" class="line3"><geom type="arrow"><sp>132.7645878801803 0</sp><ep>-132.76458788018027 0</ep><t>10</t></geom></object><object id="34" type="shape" x="-52323.6733861276" y="13500.529322261464" r="89.99999999999993" s="1.194164764588896" class="line3"><geom type="arrow"><sp>-54.46070616282577 0</sp><ep>54.46070616282577 0</ep><t>10</t></geom></object><object id="35" type="shape" x="-52323.62859939064" y="13630.541784142259" r="89.99999999999993" s="1.194164764588896" class="line3"><geom type="arrow"><sp>-54.46070616282577 0</sp><ep>54.46070616282577 0</ep><t>10</t></geom></object><object id="36" type="shape" x="-51593.7992525493" y="13500.471212346347" r="89.99999999999993" s="1.194164764588896" class="line3"><geom type="arrow"><sp>-54.46070616282577 0</sp><ep>54.46070616282577 0</ep><t>10</t></geom></object><object id="37" type="shape" x="-51593.78434643544" y="13500.485536937493" r="89.99999999999991" s="1.194164764588896" class="line3"><geom type="arrow"><sp>60.3787015795873 0</sp><ep>-60.3787015795873 0</ep><t>10</t></geom></object><object id="38" type="shape" x="-52323.75591242503" y="13630.554573284306" r="89.9999999999999" s="1.194164764588896" class="line3"><geom type="arrow"><sp>60.3787015795873 0</sp><ep>-60.3787015795873 0</ep><t>10</t></geom></object><object id="39" type="shape" x="-52323.62631872718" y="13500.541345280386" r="89.9999999999999" s="1.194164764588896" class="line3"><geom type="arrow"><sp>60.3787015795873 0</sp><ep>-60.3787015795873 0</ep><t>10</t></geom></object><object id="40" type="shape" x="-51928.50748927201" y="13748.011578767957" r="-180" s="1.194164764588896" class="line3"><geom type="arrow"><sp>-255.64642225448827 0</sp><ep>255.6464222544883 0</ep><t>10</t></geom></object><object id="41" type="text" x="-52326.19436656475" y="13384.136461979666" r="0" s="2.8484786556089077" class="body"><height>32.68359375</height><width>-52.04296875</width><p><text><![CDATA[RAM]]></text></p></object><object id="42" type="text" x="-52339.14199681751" y="13776.322345172897" r="0" s="2.589526050553553" class="body"><height>32.68359375</height><width>-47.2265625</width><p><text><![CDATA[CPU]]></text></p></object><object id="43" type="text" x="-51578.633154874566" y="13381.81557006291" r="0" s="1.7686811355464465" class="body"><height>65.3671875</height><width>134.69991316979764</width><p><text><![CDATA[Hard  Disk]]></text></p><p><text><![CDATA[Controller]]></text></p></object><object id="44" type="text" x="-51599.65260900199" y="13765.924749012072" r="0" s="1.6078919414058603" class="body"><height>65.3671875</height><width>-122.02734375</width><p><text><![CDATA[     DMA ]]></text></p><p><text><![CDATA[  controller]]></text></p></object><object id="45" type="shape" x="-51521.64559003264" y="13582.736614748632" r="89.99999999999866" s="1.194164764588896" class="line3"><geom type="arrow"><sp>-96.88365320923346 0</sp><ep>96.88365320923349 0</ep><t>10</t></geom></object><object id="46" type="shape" x="-51521.64559003264" y="13578.52126385142" r="-90.00000000000006" s="1.1941647645888973" class="line3"><geom type="arrow"><sp>-132.02653995290643 0</sp><ep>132.02653995290643 0</ep><t>10</t></geom></object><object id="47" type="shape" x="-51922.647124127085" y="13748.107284467262" r="179.99999999999997" s="1.194164764588896" class="line3"><geom type="arrow"><sp>212.40427668512336 0</sp><ep>-212.4042766851233 0</ep><t>10</t></geom></object><object id="48" type="text" x="-51952.6157307467" y="12321.684002303966" r="0" s="2.8484786556089077" class="strong"><height>46.59375</height><width>-308.1796875</width><p><text><![CDATA[Direct memory access]]></text></p></object><object id="51" type="button" x="-47613.89175467121" y="13449.786864756617" r="0" s="2.4896080926943447" class="circle"><type>circle</type><size><w>800</w><h>800</h></size></object><object id="52" type="text" x="-47580.65990697962" y="12801.929807703205" r="0" s="3.4980892306942133" class="strong"><height>46.59375</height><width>293.9567864676271</width><p><text><![CDATA[Problems with DMA]]></text></p></object><object id="53" type="text" x="-47614.44260083462" y="13127.672463496096" r="0" s="1.974580175728757" class="body"><height>130.734375</height><width>774.5691591207943</width><p listType="bullet" indent="1"><text><![CDATA[ Input / Output (I/O) devices require the memory bus only a small percentage of the time.]]></text></p><p listType="bullet" indent="1"><text><![CDATA[Hence, the impact on CPU processing time is minimal.]]></text></p><p><text><![CDATA[]]></text></p></object><object id="54" type="text" x="-47614.0439765379" y="13764.563286814091" r="0" s="2.1720381933016326" class="body"><height>294.15234375</height><width>710.916928792818</width><p listType="bullet" indent="1"><text><![CDATA[ However, in today’s systems it is not uncommon to have multiple CPUs  or GPU's having multiple ALU's in the system.]]></text></p><p listType="bullet" indent="1"><text><![CDATA[Even if we have two CPU's, both of which require access to the system memory. Using a DMA approach in this case would result in both CPUs’ processing time to be cut in half since each CPU would spend half the time in a wait state.]]></text></p><p listType="bullet" indent="1"><text><![CDATA[ A memory access method is thus needed that wouldn’t slow down either CPU.]]></text></p></object><object id="59" type="image" x="-56201.351007102436" y="17431.486931594303" r="36.04601498793416" s="2.1802719222392466"><source w="1437" h="631">963221867<url>___963221867.png</url></source><resource><id>963221867</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/6/d/2/f952e82b9f021ee3c0772b4c9d1cf4e4517c0.png</url></resource><sourceUrl>954937895%20(1).png</sourceUrl><meta><parentTemplate>paper</parentTemplate><notModifiedByUser>from-template</notModifiedByUser></meta></object><object id="55" type="text" x="-56647.69190060311" y="16191.447488210017" r="0" s="25.9864626535888" class="body"><height>65.3671875</height><width>750.2133619592609</width><p listType="bullet" indent="1"><text><![CDATA[Using multiple ports for the RAM enables faster access of system memory without wait.]]></text></p></object><object id="57" type="button" x="-93250.47906062851" y="51267.80444225329" r="0" s="4.787125360122037" class="bracket"><type>bracket</type><size><w>2151.092974328046</w><h>600</h></size></object><object id="56" type="text" x="-93263.54943221758" y="51411.10382965216" r="0" s="20.417273260754538" class="body"><height>65.3671875</height><width>458.42578125</width><p><text><![CDATA[Multi port RAM is  RAM with more than one port.]]></text></p></object><object id="58" type="button" x="-53825.62370607646" y="17952.177513583138" r="0" s="2.774203673601998" class="circle"><type>circle</type><size><w>800</w><h>800</h></size></object><object id="60" type="text" x="-53759.684724077895" y="17246.077270838665" r="0" s="3.4980892306942133" class="strong"><height>93.1875</height><width>324.2952704842155</width><p><text><![CDATA[Solution to the CPU ]]></text></p><p><text><![CDATA[  wait problem]]></text></p></object><object id="61" type="text" x="-53899.96835207697" y="17573.338945873777" r="0" s="2.389242012631796" class="body"><height>98.05078125</height><width>664.4023295306946</width><p listType="bullet" indent="1"><text><![CDATA[In the previous example considered, the problem actually is with memory which allows only one device to access it.]]></text></p></object><object id="62" type="text" x="-53843.49871267811" y="17785.94459538132" r="0" s="2.389242012631796" class="body"><height>65.3671875</height><width>812.496114681983</width><p listType="bullet" indent="1"><text><![CDATA[If the memory has multiple ports, multiplexing of memory control by DMA won't be required.]]></text></p></object><object id="63" type="text" x="-53829.552288933" y="18165.965572083758" r="0" s="2.6281662138949757" class="body"><height>163.41796875</height><width>744.5014113337193</width><p listType="bullet" indent="1"><text><![CDATA[In the example we have connected a CPU to each of the ports on a Dual-Port RAM. Notice that the DMA controller has been eliminated. Now each CPU can access any location in memory whenever it needs to. This means that both CPUs can operate with minimal wait states providing maximum performance.]]></text></p></object></zui-table><background><layer depth="208.74928714000393" fadescale="0.010538958145157663"><object id="background957177915" type="image" x="-41377.59253873762" y="13864.192539834186" r="0" s="138.40321533592106"><source w="5699" h="3691">957177915<url>957177915.jpg</url></source><resource><id>957177915</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/3/c/3/0ee4f83972d01a20c63de6c7d0f48283b7ffb.jpg</url></resource><sourceUrl>949155127.jpg</sourceUrl></object></layer></background><path><s><eagle o="4_13696309"/></s><s><eagle o="3"/></s><s><eagle o="25"/></s><s><buildin o="29_131897503"/></s><s><buildin o="30_131897503"/></s><s><eagle o="57"/></s><s><eagle o="5_13696309"/></s><s><buildin o="55"/></s><s><eagle o="1"/></s><s><eagle o="51"/></s><s><eagle o="58"/></s></path><style type="text/css"><![CDATA[
+@font-face
+{
+	src: url('NotoSans-Regular.keg');
+	fontFamily: body;
+	font-class: body;
+	font-style: normal;
+	font-weight: normal;
+	font-family: NotoSans;
+}
+
+@font-face
+{
+	src: url('Heuristica-Bold.keg');
+	fontFamily: head;
+	font-class: head;
+	font-style: normal;
+	font-weight: bold;
+	font-family: Heuristica;
+}
+
+@font-face
+{
+	src: url('FromWhereYouAre-Regular.keg');
+	fontFamily: strong;
+	font-class: strong;
+	font-style: normal;
+	font-weight: normal;
+	font-family: FromWhereYouAre-Regular;
+}
+
+@font-face
+{
+	src: url('NotoSans-Bold.keg');
+	font-style: normal;
+	font-weight: bold;
+	font-family: NotoSans;
+}
+
+@font-face
+{
+	src: url('NotoSans-Italic.keg');
+	font-style: italic;
+	font-weight: normal;
+	font-family: NotoSans;
+}
+
+@font-face
+{
+	src: url('NotoSans-BoldItalic.keg');
+	font-style: italic;
+	font-weight: bold;
+	font-family: NotoSans;
+}
+
+@font-face
+{
+	src: url('Heuristica-Italic.keg');
+	font-style: italic;
+	font-weight: normal;
+	font-family: Heuristica;
+}
+
+@font-face
+{
+	src: url('Heuristica-BoldItalic.keg');
+	font-style: italic;
+	font-weight: bold;
+	font-family: Heuristica;
+}
+
+@font-face
+{
+	src: url('Heuristica-Regular.keg');
+	font-style: normal;
+	font-weight: normal;
+	font-family: Heuristica;
+}
+
+.line1
+{
+	borderALpha: 0;
+	borderColor: #d1d7b5;
+	borderThickness: -1;
+	color: #d1d7b5;
+	gradEndAlpha: 0;
+	gradEndColor: #d1d7b5;
+	gradStartAlpha: 1;
+	gradStartColor: #d1d7b5;
+}
+
+.line2
+{
+	borderALpha: 0;
+	borderThickness: -1;
+	color: #fa5151;
+	gradEndAlpha: 0;
+	gradEndColor: #fa5151;
+	gradStartColor: #fa5151;
+}
+
+.line3
+{
+	borderALpha: 0;
+	borderThickness: -1;
+	color: #6384b5;
+	gradEndAlpha: 0;
+	gradEndColor: #6384b5;
+	gradStartColor: #6384b5;
+}
+
+.line4
+{
+	borderALpha: 0;
+	borderThickness: -1;
+	color: #e79f47;
+	gradEndAlpha: 0;
+	gradEndColor: #e79f47;
+	gradStartColor: #e79f47;
+}
+
+.line5
+{
+	borderALpha: 0;
+	borderThickness: -1;
+	color: #271837;
+	gradEndAlpha: 0;
+	gradEndColor: #271837;
+	gradStartColor: #271837;
+}
+
+.poly1
+{
+	borderALpha: 0;
+	borderThickness: 0;
+	color: #fbfcfc;
+	gradEndAlpha: .8;
+	gradEndColor: #d1d7b5;
+	gradStartAlpha: .8;
+	gradStartColor: #d1d7b5;
+}
+
+.poly2
+{
+	borderALpha: 0;
+	borderThickness: 0;
+	color: #fbfcfc;
+	gradEndAlpha: .8;
+	gradEndColor: #fa5151;
+	gradStartAlpha: .8;
+	gradStartColor: #fa5151;
+}
+
+.poly3
+{
+	borderALpha: 0;
+	borderThickness: 0;
+	color: #fbfcfc;
+	gradEndAlpha: .8;
+	gradEndColor: #6384b5;
+	gradStartAlpha: .8;
+	gradStartColor: #6384b5;
+}
+
+.poly4
+{
+	borderALpha: 0;
+	borderThickness: 0;
+	color: #fbfcfc;
+	gradEndAlpha: .8;
+	gradEndColor: #e79f47;
+	gradStartAlpha: .8;
+	gradStartColor: #e79f47;
+}
+
+.poly5
+{
+	borderALpha: 0;
+	borderThickness: 0;
+	color: #fbfcfc;
+	gradEndAlpha: .8;
+	gradEndColor: #271837;
+	gradStartAlpha: .8;
+	gradStartColor: #271837;
+}
+
+Background
+{
+	gradEnd: #fbfcfc;
+	gradStart: #fbfcfc;
+}
+
+Grid
+{
+	color: #b6b7b7;
+}
+
+ZArrow
+{
+	borderAlpha: 1;
+	borderColor: #fff;
+	borderThickness: 1;
+	gradEndAlpha: 0;
+	gradEndColor: #fff;
+	gradStartAlpha: 1;
+	gradStartColor: #fff;
+	thickness: 10;
+}
+
+ZCircle
+{
+	borderAlpha: 0;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 0;
+	thickness: 100;
+}
+
+ZCurveLine
+{
+	color: #fff;
+}
+
+ZFrame.bracket
+{
+	borderAlpha: 0;
+	borderColor: #808080;
+	borderThickness: 0;
+	gradEndAlpha: 1;
+	gradEndColor: #808080;
+	gradStartAlpha: 1;
+	gradStartColor: #808080;
+	padding: 1.03;
+	thickness: 9;
+}
+
+ZFrame.circle
+{
+	borderAlpha: 0;
+	borderColor: #808080;
+	borderThickness: 6;
+	gradEndAlpha: 1;
+	gradEndColor: #808080;
+	gradStartAlpha: 1;
+	gradStartColor: #808080;
+	padding: 1.03;
+	thickness: 8;
+}
+
+ZFrame.roundrect
+{
+	borderAlpha: 0.8;
+	borderColor: #f1da5a;
+	borderThickness: 3;
+	gradEndAlpha: 0.5;
+	gradEndColor: #f1da5a;
+	gradStartAlpha: 0.5;
+	gradStartColor: #f1da5a;
+	padding: 1.03;
+	radius: 3;
+	thickness: 3;
+}
+
+ZLabel
+{
+	lockTintAlpha: 0.15;
+	padding: 1.2;
+}
+
+ZLabel.body
+{
+	color: #17002a;
+	fontFamily: body;
+}
+
+ZLabel.body-background
+{
+	background-alpha: 0.9;
+	background-color: #e4e4dd;
+	background-padding: 20;
+}
+
+ZLabel.head
+{
+	color: #808080;
+	fontFamily: head;
+}
+
+ZLabel.head-background
+{
+	background-alpha: 0.9;
+	background-color: #f1da5a;
+	background-padding: 6;
+}
+
+ZLabel.strong
+{
+	color: #59d2b1;
+	fontFamily: strong;
+}
+
+ZLabel.strong-background
+{
+	background-alpha: 0.9;
+	background-color: #a1bae0;
+	background-padding: 8;
+}
+
+ZLine
+{
+	color: #fff;
+}
+
+ZMarker
+{
+	alpha: .7;
+	color: #b74656;
+}
+
+ZPath
+{
+	alpha: 1;
+	color: #333;
+	textColor: #fff;
+	thickness: 3;
+}
+
+ZPath Ball.base
+{
+	alpha: 1;
+	fillColor: #333;
+	radius: 12;
+}
+
+ZPath Ball.mid
+{
+	alpha: .5;
+	fillColor: #333;
+	radius: 8;
+}
+
+ZPoly
+{
+	borderAlpha: 0;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 0;
+	thickness: 100;
+}
+
+]]></style><hash>180947a2</hash><config>VtvSwNF9RXfrwwAbC6UB5YEvOe3vem9oNA==</config></zuiprezi>
