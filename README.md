@@ -8,6 +8,9 @@ at [Jamia Millia Islamia University](https://www.jmi.ac.in/).
 [Triple Port RAM Documentation](https://github.com/12562/Triple_port_RAM/blob/main/doc/Triple_Port_RAM.doc)
 [Triple Port RAM Presentation](https://github.com/12562/Triple_port_RAM/blob/main/Triple%20port%20RAM.pdf)
 
+## Block Diagram
+![Triple Port RAM block diagram](https://github.com/12562/ECS-812/blob/main/img/Triple_port_RAM.png)
+
 ## Files Hierarchy
 ```
    - arbiter_tb.v                           :   Contains testbench for top-level arbitration module.
@@ -28,3 +31,4 @@ at [Jamia Millia Islamia University](https://www.jmi.ac.in/).
    - [Niar, Smail & Eeckhout, Lieven & De Bosschere, Koen. (2003). Comparing Multiported Cache Schemes.. 3. 1179-1185.](https://github.com/12562/Triple_port_RAM/blob/main/doc/Multi%20port%20RAM/multi_port_cache.pdf)
    - [Multi Port SRAM Overview](https://github.com/12562/Triple_port_RAM/blob/main/doc/Multi%20port%20RAM/idt_first_manyport.ppt)
    - [Dual Port Memory](https://github.com/12562/Triple_port_RAM/blob/main/doc/Multi%20port%20RAM/DUAL-PORT%20MEMORY.pdf)
+   - [Triple port RAM (Intel Devmesh)](https://devmesh.intel.com/projects/triple-port-ram)
